@@ -23,6 +23,7 @@ Una página web que reproduce la estructura del panel del router del laboratorio
   <tr>
     <td align="center"><b>Simulador</b><br><img src="docs/img/simulador.gif" width="400"></td>
   </tr>
+</table>
 
 Al lado del navegador hay:
 
