@@ -12,6 +12,18 @@ C.T.P. "Olga B. de Arko" · Ushuaia
 
 Una página web que reproduce la estructura del panel del router del laboratorio (TP-Link TL-WR850N v3): las pestañas Quick Setup, Basic y Advanced, y los mismos nombres de los menús, en inglés como en el panel, con la traducción al lado. El diseño es propio, sin el logo ni la marca del fabricante.
 
+## 🎬 Demo
+
+<!-- GIF principal: flujo completo de compra (home → producto → carrito). Ideal: 10-20 s, menos de 10 MB -->
+<p align="center">
+  <img src="docs/img/demo-compra.gif" alt="Flujo de compra" width="800">
+</p>
+
+<table>
+  <tr>
+    <td align="center"><b>Simulador</b><br><img src="docs/img/simulador.gif" width="400"></td>
+  </tr>
+
 Al lado del navegador hay:
 
 - **Tu PC** y **Otra PC**, con el Símbolo del sistema (`ipconfig`, `ipconfig /all`, `ipconfig /release`, `ipconfig /renew`, `ping`) y la ventana de Conexiones de red para poner una IP fija.
