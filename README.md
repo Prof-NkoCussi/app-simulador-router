@@ -21,7 +21,7 @@ Una página web que reproduce la estructura del panel del router del laboratorio
 
 <table>
   <tr>
-    <td align="center"><b>Simulador</b><br><img src="docs/img/simulador.gif" width="850"></td>
+    <td align="center"><b>Simulador</b><br><img src="docs/img/simulador.gif" width="750"></td>
   </tr>
 </table>
 
